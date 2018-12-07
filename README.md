@@ -1,3 +1,7 @@
+Minimal modification on syntax to be supported by Python 3.
+
+Origininal Repo: https://github.com/aneesha/RAKE
+
 RAKE
 ====
 
