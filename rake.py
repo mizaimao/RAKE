@@ -8,7 +8,7 @@ import re
 import operator
 
 debug = False
-test = True
+test = False
 
 
 def is_number(s):
